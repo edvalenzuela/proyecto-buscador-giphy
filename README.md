@@ -1,3 +1,7 @@
+Demo ir al enlace [aquí](https://edvalenzuela.github.io/proyecto-buscador-giphy/).
+
+![2020-07-24 16_51_11-Microsoft Store](https://user-images.githubusercontent.com/39087254/88435448-3556e400-cdd0-11ea-9cd7-621eceef11c8.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
